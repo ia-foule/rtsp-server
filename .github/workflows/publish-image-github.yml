@@ -16,5 +16,3 @@ jobs:
           registry: ghcr.io
           repository: ia-foule/vlc-server
           tag_with_ref: true
-~                                                                                                                                                                                                                                 
-~                            
